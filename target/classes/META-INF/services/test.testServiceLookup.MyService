@@ -1,3 +1,0 @@
-# java.util.List							# demonstration of no type safety at compile time
-test.testServiceLookup.MyServiceImpl	# provides println()
-test.testServiceLookup.MyServiceImpl2	# provides getX()
