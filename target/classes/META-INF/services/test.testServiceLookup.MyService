@@ -1,0 +1,2 @@
+test.testServiceLookup.MyServiceImpl	# provides println()
+test.testServiceLookup.MyServiceImpl2	# provides getX()

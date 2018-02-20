@@ -1,0 +1,3 @@
+@echo off
+echo Building...
+call mvn compile -DskipTests -DuseIncrementalCompilation=false -q
